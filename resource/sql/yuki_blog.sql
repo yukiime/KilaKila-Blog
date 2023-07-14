@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.28, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: kila_kila_blog
+-- Host: 127.0.0.1    Database: yuki_blog
 -- ------------------------------------------------------
 -- Server version	8.0.28
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -15,8 +15,8 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 CREATE DATABASE
 /*!32312 IF NOT EXISTS*/
-`kila_kila_blog`;
-USE `kila_kila_blog`;
+`yuki_blog`;
+USE `yuki_blog`;
 --
 -- Table structure for table `access`
 --
